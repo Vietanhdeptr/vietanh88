@@ -155,7 +155,7 @@ class ClientAPI {
     formData.append("auth_date", data.auth_date);
     formData.append("signature", data.signature);
     formData.append("hash", data.hash);
-    formData.append("start_param", "A_1092680235_inviteEarn");
+    formData.append("start_param", "A_5649315682_inviteEarn");
 
     do {
       currRetries++;
