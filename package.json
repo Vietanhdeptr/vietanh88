@@ -1,6 +1,5 @@
 {
   "author": "@vanhteam",
-  "license": "MIT",
   "dependencies": {
     "axios": "^1.7.2",
     "colors": "^1.4.0",
